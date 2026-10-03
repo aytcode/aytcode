@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ayt-code-github-banner.gif" alt="AYT code" width="100%" />
+  <img src="./ayt-code-github-banner (4).gif" alt="AYT code" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Ali Yiğit Turan (@aytcode) 👋</h1>
